@@ -7,7 +7,7 @@ A student from the UK enthusiastic about full stack web development.
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=d0cere&theme=tokyonight&showicons=true)]()
 
 ## Profile Views
-![](https://komarev.com/ghpvc/?username=d0cere)
+![My_Profile_Views](https://komarev.com/ghpvc/?username=d0cere)
 
 ## Skills 
 <p align="left">
