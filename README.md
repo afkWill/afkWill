@@ -1,7 +1,7 @@
 
 
 # Hi 👋 My name is d0cere
-A student from the UK enthusiastic about full stack web development.
+A student from the UK enthusiastic about all things web dev.
 
 ## Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=d0cere&theme=tokyonight&showicons=true)]()
