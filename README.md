@@ -1,13 +1,13 @@
 
 
-# Hi 👋 My name is d0cere
+# Hi 👋 My name is Will
 A student from the UK enthusiastic about all things web dev.
 
 ## Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=d0cere&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=afkWill&theme=tokyonight&showicons=true)]()
 
 ## Profile Views
-![My_Profile_Views](https://komarev.com/ghpvc/?username=d0cere)
+![My_Profile_Views](https://komarev.com/ghpvc/?username=afkWill)
 
 ## Skills 
 <p align="left">
